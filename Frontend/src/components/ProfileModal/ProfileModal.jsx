@@ -21,7 +21,7 @@ function ProfileModal({modalOpened, setModalOpened}) {
                 type="text" 
                 className="infoInput"
                 name="FirstName"
-                placehorder="First Name" 
+                placehorder="bangsattt" 
             />
             <input 
                 type="text" 
